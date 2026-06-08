@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/anzilmo/"><img src="https://img.shields.io/badge/LinkedIn-anzilmo-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:anzilmo15@gmail.com"><img src="https://img.shields.io/badge/Email-anzilmo15@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20%2F%20Qatar-22c55e?style=flat" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-On--Site%20%2F%20Qatar-22c55e?style=flat" />
 </p>
 
 What I do
@@ -19,5 +19,16 @@ I build scalable REST APIs for real businesses — e-commerce platforms, SaaS pr
 🧪 Testing — Async test suites with pytest + pytest-asyncio covering auth flows, payment lifecycles, and API behaviour
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white
-https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white" />
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Alembic-6BA81E?style=flat" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
