@@ -17,3 +17,6 @@ I build scalable REST APIs for real businesses — e-commerce platforms, SaaS pr
 ☁️ Cloud — S3-compatible file storage abstraction (AWS S3, MinIO, Cloudflare R2), presigned URLs, AWS SES email
 ⚙️ Async — Background job processing with Arq, async endpoints with FastAPI + SQLAlchemy
 🧪 Testing — Async test suites with pytest + pytest-asyncio covering auth flows, payment lifecycles, and API behaviour
+
+https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white
+https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white
