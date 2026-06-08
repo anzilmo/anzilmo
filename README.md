@@ -17,13 +17,11 @@ I build scalable REST APIs for real businesses — e-commerce platforms, SaaS pr
 ☁️ Cloud — S3-compatible file storage abstraction (AWS S3, MinIO, Cloudflare R2), presigned URLs, AWS SES email
 ⚙️ Async — Background job processing with Arq, async endpoints with FastAPI + SQLAlchemy
 🧪 Testing — Async test suites with pytest + pytest-asyncio covering auth flows, payment lifecycles, and API behaviour
-<p 
+<p> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white" />
@@ -32,3 +30,4 @@ I build scalable REST APIs for real businesses — e-commerce platforms, SaaS pr
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Alembic-6BA81E?style=flat" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
