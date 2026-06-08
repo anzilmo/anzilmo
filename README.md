@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Ansil 👋</h1>
 <p align="center">
   <b>Python Backend Developer</b> · FastAPI · PostgreSQL · AWS · Docker<br/>
-  Building production APIs at <a href="https://shopnfreight.com">ShopNFreight</a> · Doha, Qatar 🇶🇦
+  Building production APIs at <a href="https://shopnfreight.com">ShopNFreight</a> · Doha, Qatar 
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/anzilmo/"><img src="https://img.shields.io/badge/LinkedIn-anzilmo-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
